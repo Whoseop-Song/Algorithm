@@ -1,7 +1,8 @@
 # Algorithm
 Chungnam National University
+
 2016 autumn semester algorithm class 
 
 IDE : intelli J ultimate
-java 1.8
-Mac os X El Capitan
+sdk : Java 1.8
+OS  : Mac os X El Capitan
